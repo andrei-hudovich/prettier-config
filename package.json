@@ -1,0 +1,22 @@
+{
+  "name": "@hudovich/prettier-config",
+  "version": "1.0.0",
+  "description": "Andrei Hudovich's Prettier configuration",
+  "main": "index.json",
+  "keywords": [
+    "prettier",
+    "prettierrc",
+    "config"
+  ],
+  "homepage": "https://github.com/andrei-hudovich/prettier-config",
+  "license": "MIT",
+  "author": {
+    "name": "Andrei Hudovich",
+    "email": "andrei.hudovich@gmail.com",
+    "url": "https://hudovich.dev/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrei-hudovich/prettier-config.git"
+  }
+}
