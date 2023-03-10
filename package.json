@@ -18,5 +18,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/andrei-hudovich/prettier-config.git"
+  },
+  "scripts": {
+    "release": "npm publish --access public"
   }
 }
