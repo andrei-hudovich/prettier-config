@@ -1,7 +1,7 @@
 {
   "name": "@hudovich/prettier-config",
-  "version": "1.0.0",
-  "description": "Andrei Hudovich's Prettier configuration",
+  "version": "1.0.1",
+  "description": "My Prettier configuration",
   "main": "index.json",
   "keywords": [
     "prettier",
